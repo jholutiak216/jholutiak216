@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jholutiak216
+- 👋 Hi, I’m @jholutiak216(Jason Holutiak)
 - 👀 I’m interested in game development, art and music.
-- 🌱 I’m currently learning python and C++
+- 🌱 I’m currently re-learning python and I've also been working to expand my knowledge of C++
 - 💞️ I’m looking to collaborate on DCC tools and UE4/5 animation technology.
 
 <!---
